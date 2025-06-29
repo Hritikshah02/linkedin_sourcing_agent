@@ -320,7 +320,14 @@ def print_enhanced_summary(result, job_info):
         print(f"\n🏆 Top Candidates:")
         for i, candidate in enumerate(top_candidates[:5], 1):
             confidence = candidate.get('confidence_analysis', {}).get('overall_confidence', 0)
-            print(f"   {i}. {candidate['name']} - Score: {candidate.get('fit_score', 0)}/10 - Confidence: {confidence:.2f}")
+            # Ensure confidence is a number before formatting
+            try:
+                confidence_float = float(confidence) if confidence is not None else 0.0
+                confidence_str = f"{confidence_float:.2f}"
+            except (ValueError, TypeError):
+                confidence_str = str(confidence) if confidence is not None else "0.00"
+            
+            print(f"   {i}. {candidate['name']} - Score: {candidate.get('fit_score', 0)}/10 - Confidence: {confidence_str}")
             
             # Show multi-source data if available
             if candidate.get('github_username'):

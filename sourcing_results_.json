@@ -1,0 +1,221 @@
+{
+  "job_id": "5",
+  "candidates_found": 10,
+  "top_candidates": [
+    {
+      "name": "Abhishek Nair - Python Developer - PTC\nLinkedIn · Abhishek Nair\n1.5K+ followers",
+      "linkedin_url": "https://www.linkedin.com/in/mrabhi05",
+      "fit_score": 5.3,
+      "score_breakdown": {
+        "education": 7.5,
+        "trajectory": 5.0,
+        "company": 5.0,
+        "skills": 1.1,
+        "location": 10.0,
+        "tenure": 5.0,
+        "confidence_bonus": 0.4
+      },
+      "outreach_message": "Here is a professional LinkedIn outreach message for Abhishek:\n\nAbhishek,\n\nI came across your profile and was impressed with your experience in developing scalable and efficient Python applications. Your background in Information Technology and expertise in Python development caught my attention.\n\nI wanted to reach out to you about a Senior Python Developer role at [Company]. As a seasoned Python developer, I think you'd be a great fit for our team. We're looking for someone with a strong foundation in Python development, and your skills align well with our requirements.\n\nIf you're interested in exploring this opportunity further, I'd love to set up a time to discuss the position in more detail. Please let me know if you're open to a conversation.\n\nBest regards,",
+      "data_confidence": {
+        "linkedin": 0.8,
+        "github": 0.0,
+        "twitter": 0.0,
+        "website": 0.0,
+        "overall": 0.4
+      },
+      "confidence_analysis": {
+        "overall_confidence": "5.6%",
+        "reliability": "28.9%",
+        "data_quality": {
+          "completeness": "18.9%",
+          "freshness": "70.0%",
+          "consistency": "70.0%"
+        },
+        "source_confidence": {
+          "linkedin": "11.2%",
+          "github": "0.0%",
+          "twitter": "0.0%",
+          "website": "0.0%"
+        },
+        "recommendations": [
+          "Overall confidence is low - consider manual verification",
+          "LinkedIn profile data is incomplete",
+          "GitHub profile could provide additional insights",
+          "Profile data is incomplete - missing key information"
+        ]
+      }
+    },
+    {
+      "name": "Gautam Jangid - C++ & Python Developer\nLinkedIn · Gautam Jangid\n710+ followers",
+      "linkedin_url": "https://www.linkedin.com/in/gautam-jangid-95506917",
+      "fit_score": 5.2,
+      "score_breakdown": {
+        "education": 6.5,
+        "trajectory": 5.0,
+        "company": 5.0,
+        "skills": 3.4,
+        "location": 5.0,
+        "tenure": 5.0,
+        "confidence_bonus": 0.4
+      },
+      "outreach_message": "Here is a professional LinkedIn outreach message for Gautam:\n\nHi Gautam,\n\nI came across your profile and was impressed with your 10+ years of experience in the IT field, particularly your 5 years of expertise in Python programming. Your background in Automation and AI is also noteworthy.\n\nI'm reaching out because I think you'd be a great fit for our Senior Python Developer role at [Company]. We're looking for someone with your skills and experience to join our team. Our ideal candidate has experience with Django/Flask frameworks, machine learning libraries like TensorFlow/PyTorch, and AWS cloud infrastructure.\n\nIf you're interested in exploring this opportunity further, I'd love to schedule a call to discuss how your skills align with our requirements. Please let me know if you're open to a conversation.\n\nBest regards,\n[Your Name]",
+      "data_confidence": {
+        "linkedin": 0.8,
+        "github": 0.0,
+        "twitter": 0.0,
+        "website": 0.0,
+        "overall": 0.4
+      },
+      "confidence_analysis": {
+        "overall_confidence": "5.6%",
+        "reliability": "28.9%",
+        "data_quality": {
+          "completeness": "18.9%",
+          "freshness": "70.0%",
+          "consistency": "70.0%"
+        },
+        "source_confidence": {
+          "linkedin": "11.2%",
+          "github": "0.0%",
+          "twitter": "0.0%",
+          "website": "0.0%"
+        },
+        "recommendations": [
+          "Overall confidence is low - consider manual verification",
+          "LinkedIn profile data is incomplete",
+          "GitHub profile could provide additional insights",
+          "Profile data is incomplete - missing key information"
+        ]
+      }
+    },
+    {
+      "name": "Abhijeet Swami - Gen AI and Python Developer - swaratech\nLinkedIn · Abhijeet Swami\n6.4K+ followers",
+      "linkedin_url": "https://www.linkedin.com/in/abhijeetswami",
+      "fit_score": 5.0,
+      "score_breakdown": {
+        "education": 7.5,
+        "trajectory": 6.0,
+        "company": 5.0,
+        "skills": 1.1,
+        "location": 5.0,
+        "tenure": 5.0,
+        "confidence_bonus": 0.4
+      },
+      "outreach_message": "Here is a professional LinkedIn outreach message for the candidate:\n\nAbhijeet,\n\nI came across your profile and was impressed with your experience as a Gen AI and Python Developer, particularly your expertise in machine learning and training. I'm reaching out from [Company] about a Senior Python Developer role that I think you'd be a great fit for. Our team is looking for someone with extensive Python development experience and knowledge of machine learning libraries like TensorFlow and PyTorch. Your background in AI training and development aligns well with our requirements. \n\nI'd love to discuss how your skills can contribute to our team's success. Would you be open to a quick call to explore this opportunity further?\n\nBest regards,",
+      "data_confidence": {
+        "linkedin": 0.8,
+        "github": 0.0,
+        "twitter": 0.0,
+        "website": 0.0,
+        "overall": 0.4
+      },
+      "confidence_analysis": {
+        "overall_confidence": "5.6%",
+        "reliability": "28.9%",
+        "data_quality": {
+          "completeness": "18.9%",
+          "freshness": "70.0%",
+          "consistency": "70.0%"
+        },
+        "source_confidence": {
+          "linkedin": "11.2%",
+          "github": "0.0%",
+          "twitter": "0.0%",
+          "website": "0.0%"
+        },
+        "recommendations": [
+          "Overall confidence is low - consider manual verification",
+          "LinkedIn profile data is incomplete",
+          "GitHub profile could provide additional insights",
+          "Profile data is incomplete - missing key information"
+        ]
+      }
+    },
+    {
+      "name": "Ankur Ashish - Senior Python Developer - Infosys\nLinkedIn · Ankur Ashish\n2.1K+ followers",
+      "linkedin_url": "https://www.linkedin.com/in/ankur-ashish-784720186",
+      "fit_score": 4.8,
+      "score_breakdown": {
+        "education": 6.0,
+        "trajectory": 6.0,
+        "company": 5.0,
+        "skills": 1.1,
+        "location": 5.0,
+        "tenure": 5.0,
+        "confidence_bonus": 0.4
+      },
+      "outreach_message": "Here is a professional LinkedIn outreach message for Ankur:\n\nHi Ankur,\n\nI came across your profile and was impressed with your experience as a backend Python L3 developer at a reputable banking and investment company. Your skills in Python development are exactly what we're looking for at our company. \n\nWe're currently seeking a Senior Python Developer with expertise in Django/Flask frameworks, machine learning libraries, and AWS cloud infrastructure. Your background aligns well with our requirements, and I'd love to discuss how your skills can contribute to our team's success.\n\nWould you be open to exploring this opportunity further? If so, I'd appreciate the chance to set up a call to discuss the position in more detail.\n\nBest regards,",
+      "data_confidence": {
+        "linkedin": 0.8,
+        "github": 0.0,
+        "twitter": 0.0,
+        "website": 0.0,
+        "overall": 0.4
+      },
+      "confidence_analysis": {
+        "overall_confidence": "5.6%",
+        "reliability": "28.9%",
+        "data_quality": {
+          "completeness": "18.9%",
+          "freshness": "70.0%",
+          "consistency": "70.0%"
+        },
+        "source_confidence": {
+          "linkedin": "11.2%",
+          "github": "0.0%",
+          "twitter": "0.0%",
+          "website": "0.0%"
+        },
+        "recommendations": [
+          "Overall confidence is low - consider manual verification",
+          "LinkedIn profile data is incomplete",
+          "GitHub profile could provide additional insights",
+          "Profile data is incomplete - missing key information"
+        ]
+      }
+    },
+    {
+      "name": "Fabrizio Romano - Sohonet\nLinkedIn · Fabrizio Romano\n1.1K+ followers",
+      "linkedin_url": "https://www.linkedin.com/in/gianchub",
+      "fit_score": 4.4,
+      "score_breakdown": {
+        "education": 5.0,
+        "trajectory": 5.0,
+        "company": 5.0,
+        "skills": 1.1,
+        "location": 5.0,
+        "tenure": 5.0,
+        "confidence_bonus": 0.4
+      },
+      "outreach_message": "Here is a professional LinkedIn outreach message for Fabrizio:\n\nHi Fabrizio,\n\nI came across your profile and noticed your experience with Python programming, which aligns with our current needs. As a seasoned Python developer, I think you'd be a great fit for our Senior Python Developer role at [Company]. \n\nWe're seeking an expert with 5+ years of Python development experience, familiar with Django/Flask frameworks, and knowledgeable about machine learning libraries like TensorFlow/PyTorch. Your background in Python development caught my attention, and I'd love to discuss how your skills can contribute to our team's success.\n\nWould you be open to exploring this opportunity further? Let's schedule a call to discuss the position in more detail.\n\nBest regards,",
+      "data_confidence": {
+        "linkedin": 0.8,
+        "github": 0.0,
+        "twitter": 0.0,
+        "website": 0.0,
+        "overall": 0.4
+      },
+      "confidence_analysis": {
+        "overall_confidence": "5.6%",
+        "reliability": "28.9%",
+        "data_quality": {
+          "completeness": "18.9%",
+          "freshness": "70.0%",
+          "consistency": "70.0%"
+        },
+        "source_confidence": {
+          "linkedin": "11.2%",
+          "github": "0.0%",
+          "twitter": "0.0%",
+          "website": "0.0%"
+        },
+        "recommendations": [
+          "Overall confidence is low - consider manual verification",
+          "LinkedIn profile data is incomplete",
+          "GitHub profile could provide additional insights",
+          "Profile data is incomplete - missing key information"
+        ]
+      }
+    }
+  ]
+}
