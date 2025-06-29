@@ -1,0 +1,17 @@
+# LinkedIn Sourcing Agent Environment Variables
+# Copy this file to .env and fill in your actual API keys
+
+# OpenRouter API Key (required for AI-powered message generation)
+# Get your key from: https://openrouter.ai/
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# Optional: Alternative LLM providers
+# ANTHROPIC_API_KEY=your_anthropic_api_key_here
+# GOOGLE_AI_API_KEY=your_google_ai_api_key_here
+
+# Optional: Database configuration
+# DATABASE_PATH=linkedin_sourcing.db
+
+# Optional: Rate limiting settings
+# LINKEDIN_SEARCH_DELAY=2
+# MAX_SEARCH_RESULTS=50 

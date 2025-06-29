@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  linkedin-sourcing-agent:
+    build: .
+    container_name: linkedin-sourcing-agent
+    volumes:
+      - ./data:/app/data
+      - ./job_desc.txt:/app/job_desc.txt:ro
+      - ./open_router_key.txt:/app/open_router_key.txt:ro
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    command: ["python", "main.py", "job_desc.txt"]
+    restart: unless-stopped
+    
+  # Optional: Add a database service for production
+  # postgres:
+  #   image: postgres:13
+  #   container_name: linkedin-sourcing-db
+  #   environment:
+  #     POSTGRES_DB: linkedin_sourcing
+  #     POSTGRES_USER: sourcing_user
+  #     POSTGRES_PASSWORD: your_password_here
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   ports:
+  #     - "5432:5432"
+  #   restart: unless-stopped
+
+volumes:
+  postgres_data: 

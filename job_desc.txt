@@ -1,0 +1,25 @@
+Senior Python Developer
+
+We're looking for a Senior Python Developer with:
+- 5+ years of Python development experience
+- Experience with Django/Flask frameworks
+- Knowledge of machine learning libraries (TensorFlow/PyTorch)
+- AWS cloud infrastructure experience
+- Docker and Kubernetes familiarity
+- Strong problem-solving skills
+- Experience with RESTful APIs
+- Knowledge of database design and optimization
+
+Location: San Francisco, CA
+Salary: $120,000 - $180,000
+Type: Full-time, On-site
+
+About the Company:
+We are a fast-growing tech startup focused on AI and machine learning solutions. Our team is passionate about building innovative products that solve real-world problems.
+
+Benefits:
+- Competitive salary and equity
+- Health, dental, and vision insurance
+- Flexible work hours
+- Professional development opportunities
+- Modern office in downtown San Francisco
